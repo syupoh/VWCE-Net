@@ -1,0 +1,609 @@
+./220204_220204_220222T1447.txt
+./work_dirs/_220204_bin/220204_bleeding_timesformer_spaceOnly_10x32x1_220210T1328
+total_data	235
+each_label	210	25	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	48.00	93.81	88.94	48.00	88.94	12	197	13	13
+epoch_20_pred.json	0.00	99.05	88.51	0.00	88.51	0	208	25	2
+epoch_40_pred.json	0.00	100.00	89.36	0.00	89.36	0	210	25	0
+epoch_60_pred.json	16.00	97.62	88.94	23.53	88.94	4	205	21	5
+epoch_80_pred.json	20.00	97.62	89.36	28.57	89.36	5	205	20	5
+
+./work_dirs/_220204_bin/220204_bleeding_timesformer_spaceOnly_12x32x1_220210T1747
+total_data	235
+each_label	210	25	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	72.00	95.24	92.77	67.92	92.77	18	200	7	10
+epoch_20_pred.json	68.00	98.10	94.89	73.91	94.89	17	206	8	4
+epoch_40_pred.json	20.00	97.62	89.36	28.57	89.36	5	205	20	5
+epoch_60_pred.json	68.00	95.71	92.77	66.67	92.77	17	201	8	9
+epoch_80_pred.json	76.00	94.29	92.34	67.86	92.34	19	198	6	12
+
+./work_dirs/_220204_bin/220204_bleeding_timesformer_spaceOnly_14x32x1_220210T2253
+total_data	235
+each_label	210	25	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	80.00	94.76	93.19	71.43	93.19	20	199	5	11
+epoch_20_pred.json	44.00	98.10	92.34	55.00	92.34	11	206	14	4
+epoch_40_pred.json	44.00	99.05	93.19	57.89	93.19	11	208	14	2
+epoch_60_pred.json	76.00	95.24	93.19	70.37	93.19	19	200	6	10
+epoch_80_pred.json	80.00	94.76	93.19	71.43	93.19	20	199	5	11
+
+./work_dirs/_220204_bin/220204_bleeding_timesformer_spaceOnly_2x32x1_220211T0444
+total_data	235
+each_label	210	25	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	72.00	95.71	93.19	69.23	93.19	18	201	7	9
+epoch_20_pred.json	56.00	98.10	93.62	65.12	93.62	14	206	11	4
+epoch_40_pred.json	72.00	98.57	95.74	78.26	95.74	18	207	7	3
+epoch_60_pred.json	72.00	96.19	93.62	70.59	93.62	18	202	7	8
+epoch_80_pred.json	72.00	95.24	92.77	67.92	92.77	18	200	7	10
+
+./work_dirs/_220204_bin/220204_bleeding_timesformer_spaceOnly_4x32x1_220211T0603
+total_data	235
+each_label	210	25	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	76.00	94.76	92.77	69.09	92.77	19	199	6	11
+epoch_20_pred.json	44.00	99.05	93.19	57.89	93.19	11	208	14	2
+epoch_40_pred.json	76.00	96.67	94.47	74.51	94.47	19	203	6	7
+epoch_60_pred.json	88.00	93.33	92.77	72.13	92.77	22	196	3	14
+epoch_80_pred.json	76.00	94.76	92.77	69.09	92.77	19	199	6	11
+
+./work_dirs/_220204_bin/220204_bleeding_timesformer_spaceOnly_6x32x1_220211T0803
+total_data	235
+each_label	210	25	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	72.00	96.19	93.62	70.59	93.62	18	202	7	8
+epoch_20_pred.json	76.00	98.57	96.17	80.85	96.17	19	207	6	3
+epoch_40_pred.json	84.00	95.24	94.04	75.00	94.04	21	200	4	10
+epoch_60_pred.json	72.00	97.14	94.47	73.47	94.47	18	204	7	6
+epoch_80_pred.json	72.00	95.71	93.19	69.23	93.19	18	201	7	9
+
+./work_dirs/_220204_bin/220204_bleeding_timesformer_spaceOnly_8x32x1_220211T1044
+total_data	235
+each_label	210	25	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	76.00	96.19	94.04	73.08	94.04	19	202	6	8
+epoch_20_pred.json	0.00	100.00	89.36	0.00	89.36	0	210	25	0
+epoch_40_pred.json	44.00	96.67	91.06	51.16	91.06	11	203	14	7
+epoch_60_pred.json	68.00	96.67	93.62	69.39	93.62	17	203	8	7
+epoch_80_pred.json	68.00	97.14	94.04	70.83	94.04	17	204	8	6
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_divST_10x32x1_220211T1413
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_80_pred.json	10.81	99.49	85.53	19.05	85.53	4	197	33	1
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_divST_12x32x1_220211T2311
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	18.92	93.43	81.70	24.56	81.70	7	185	30	13
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	29.73	92.42	82.55	34.92	82.55	11	183	26	15
+epoch_80_pred.json	16.22	96.97	84.26	24.49	84.26	6	192	31	6
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_divST_14x32x1_220212T0913
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	43.24	78.28	72.77	33.33	72.77	16	155	21	43
+epoch_20_pred.json	35.14	95.45	85.96	44.07	85.96	13	189	24	9
+epoch_40_pred.json	40.54	91.41	83.40	43.48	83.40	15	181	22	17
+epoch_60_pred.json	27.03	84.85	75.74	25.97	75.74	10	168	27	30
+epoch_80_pred.json	16.22	96.46	83.83	24.00	83.83	6	191	31	7
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_divST_16x32x1_220212T2014
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	45.95	86.36	80.00	41.98	80.00	17	171	20	27
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	40.54	89.39	81.70	41.10	81.70	15	177	22	21
+epoch_80_pred.json	45.95	85.86	79.57	41.46	79.57	17	170	20	28
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_divST_18x32x1_220213T0825
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	35.14	91.92	82.98	39.39	82.98	13	182	24	16
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	29.73	97.98	87.23	42.31	87.23	11	194	26	4
+epoch_80_pred.json	8.11	100.00	85.53	15.00	85.53	3	198	34	0
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_divST_20x32x1_220213T2110
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_80_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_divST_2x32x1_220214T1209
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	56.76	91.41	85.96	56.00	85.96	21	181	16	17
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	10.81	100.00	85.96	19.51	85.96	4	198	33	0
+epoch_80_pred.json	37.84	93.43	84.68	43.75	84.68	14	185	23	13
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_divST_4x32x1_220214T1626
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	56.76	74.24	71.49	38.53	71.49	21	147	16	51
+epoch_20_pred.json	59.46	82.83	79.15	47.31	79.15	22	164	15	34
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	43.24	87.88	80.85	41.56	80.85	16	174	21	24
+epoch_80_pred.json	18.92	92.42	80.85	23.73	80.85	7	183	30	15
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_divST_6x32x1_220214T2143
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	37.84	81.82	74.89	32.18	74.89	14	162	23	36
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	70.27	72.22	71.91	44.07	71.91	26	143	11	55
+epoch_60_pred.json	51.35	83.33	78.30	42.70	78.30	19	165	18	33
+epoch_80_pred.json	54.05	78.79	74.89	40.40	74.89	20	156	17	42
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_divST_8x32x1_220215T0402
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	51.35	83.33	78.30	42.70	78.30	19	165	18	33
+epoch_20_pred.json	62.16	85.86	82.13	52.27	82.13	23	170	14	28
+epoch_40_pred.json	45.95	94.44	86.81	52.31	86.81	17	187	20	11
+epoch_60_pred.json	43.24	90.40	82.98	44.44	82.98	16	179	21	19
+epoch_80_pred.json	51.35	84.85	79.57	44.19	79.57	19	168	18	30
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_jointST_10x32x1_220213T0313
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	8.11	95.96	82.13	12.50	82.13	3	190	34	8
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_80_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_jointST_10x32x1_220215T1139
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	45.95	84.85	78.72	40.48	78.72	17	168	20	30
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	32.43	90.91	81.70	35.82	81.70	12	180	25	18
+epoch_80_pred.json	48.65	84.85	79.15	42.35	79.15	18	168	19	30
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_jointST_12x32x1_220213T1214
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_80_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_jointST_2x32x1_220213T2346
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	83.78	97.47	95.32	84.93	95.32	31	193	6	5
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	35.14	99.49	89.36	50.98	89.36	13	197	24	1
+epoch_60_pred.json	72.97	96.97	93.19	77.14	93.19	27	192	10	6
+epoch_80_pred.json	64.86	97.98	92.77	73.85	92.77	24	194	13	4
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_jointST_4x32x1_220214T0235
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	21.62	96.46	84.68	30.77	84.68	8	191	29	7
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_80_pred.json	0.00	99.49	83.83	0.00	83.83	0	197	37	1
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_jointST_6x32x1_220214T0621
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_80_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_jointST_8x32x1_220214T1124
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	40.54	88.38	80.85	40.00	80.85	15	175	22	23
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	27.03	93.43	82.98	33.33	82.98	10	185	27	13
+epoch_80_pred.json	27.03	93.43	82.98	33.33	82.98	10	185	27	13
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_spaceOnly_10x32x1_220214T1844
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	86.49	94.95	93.62	81.01	93.62	32	188	5	10
+epoch_20_pred.json	48.65	98.48	90.64	62.07	90.64	18	195	19	3
+epoch_40_pred.json	83.78	95.45	93.62	80.52	93.62	31	189	6	9
+epoch_60_pred.json	81.08	93.94	91.91	75.95	91.91	30	186	7	12
+epoch_80_pred.json	86.49	94.95	93.62	81.01	93.62	32	188	5	10
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_spaceOnly_12x32x1_220214T2301
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	78.38	96.97	94.04	80.56	94.04	29	192	8	6
+epoch_20_pred.json	72.97	96.46	92.77	76.06	92.77	27	191	10	7
+epoch_40_pred.json	78.38	91.92	89.79	70.73	89.79	29	182	8	16
+epoch_60_pred.json	78.38	96.46	93.62	79.45	93.62	29	191	8	7
+epoch_80_pred.json	78.38	96.97	94.04	80.56	94.04	29	192	8	6
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_spaceOnly_14x32x1_220215T0403
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	70.27	96.97	92.77	75.36	92.77	26	192	11	6
+epoch_20_pred.json	8.11	98.48	84.26	13.95	84.26	3	195	34	3
+epoch_40_pred.json	70.27	98.48	94.04	78.79	94.04	26	195	11	3
+epoch_60_pred.json	78.38	97.47	94.47	81.69	94.47	29	193	8	5
+epoch_80_pred.json	70.27	97.47	93.19	76.47	93.19	26	193	11	5
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_spaceOnly_2x32x1_220215T0949
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	67.57	98.99	94.04	78.12	94.04	25	196	12	2
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	67.57	97.47	92.77	74.63	92.77	25	193	12	5
+epoch_60_pred.json	54.05	99.49	92.34	68.97	92.34	20	197	17	1
+epoch_80_pred.json	64.86	98.48	93.19	75.00	93.19	24	195	13	3
+
+./work_dirs/_220204_bin/220204_inflammed_timesformer_spaceOnly_4x32x1_220215T1108
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	21.62	95.45	83.83	29.63	83.83	8	189	29	9
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_60_pred.json	2.70	100.00	84.68	5.26	84.68	1	198	36	0
+epoch_80_pred.json	13.51	98.48	85.11	22.22	85.11	5	195	32	3
+
+./work_dirs/_220204_bin/220204_normal_bleeding_timesformer_divST_10x32x1_220208T2327
+total_data	235
+each_label	210	25	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	60.00	97.62	93.62	66.67	93.62	15	205	10	5
+epoch_20_pred.json	56.00	98.57	94.04	66.67	94.04	14	207	11	3
+epoch_40_pred.json	52.00	99.05	94.04	65.00	94.04	13	208	12	2
+epoch_60_pred.json	60.00	97.62	93.62	66.67	93.62	15	205	10	5
+epoch_80_pred.json	60.00	97.62	93.62	66.67	93.62	15	205	10	5
+
+./work_dirs/_220204_bin/220204_normal_bleeding_timesformer_divST_2x32x1_220209T0656
+total_data	235
+each_label	210	25	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	76.00	96.19	94.04	73.08	94.04	19	202	6	8
+epoch_20_pred.json	64.00	96.19	92.77	65.31	92.77	16	202	9	8
+epoch_40_pred.json	68.00	99.05	95.74	77.27	95.74	17	208	8	2
+epoch_60_pred.json	72.00	97.62	94.89	75.00	94.89	18	205	7	5
+epoch_80_pred.json	76.00	95.71	93.62	71.70	93.62	19	201	6	9
+
+./work_dirs/_220204_bin/220204_normal_bleeding_timesformer_divST_4x32x1_220209T0900
+total_data	235
+each_label	210	25	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_20_pred.json	0.00	100.00	89.36	0.00	89.36	0	210	25	0
+epoch_40_pred.json	28.00	99.52	91.91	42.42	91.91	7	209	18	1
+epoch_60_pred.json	44.00	98.57	92.77	56.41	92.77	11	207	14	3
+epoch_80_pred.json	44.00	99.05	93.19	57.89	93.19	11	208	14	2
+
+
+./work_dirs/_220204_bin/220204_normal_bleeding_timesformer_divST_8x32x1_220207T0932
+total_data	235
+each_label	210	25	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	76.00	97.62	95.32	77.55	95.32	19	205	6	5
+epoch_20_pred.json	48.00	99.05	93.62	61.54	93.62	12	208	13	2
+epoch_40_pred.json	52.00	98.57	93.62	63.41	93.62	13	207	12	3
+epoch_60_pred.json	72.00	97.62	94.89	75.00	94.89	18	205	7	5
+epoch_80_pred.json	76.00	97.62	95.32	77.55	95.32	19	205	6	5
+
+
+
+
+
+./work_dirs/_220204_bin/220204_normal_bleeding_timesformer_jointST_8x32x1_220207T1451
+total_data	235
+each_label	210	25	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	56.00	96.67	92.34	60.87	92.34	14	203	11	7
+epoch_20_pred.json	0.00	100.00	89.36	0.00	89.36	0	210	25	0
+epoch_40_pred.json	4.00	99.52	89.36	7.41	89.36	1	209	24	1
+epoch_60_pred.json	52.00	95.24	90.64	54.17	90.64	13	200	12	10
+epoch_80_pred.json	76.00	95.24	93.19	70.37	93.19	19	200	6	10
+
+
+./work_dirs/_220204_bin/220204_normal_bleeding_timesformer_spaceOnly_8x32x1_220208T0017
+total_data	235
+each_label	210	25	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	88.00	96.19	95.32	80.00	95.32	22	202	3	8
+epoch_20_pred.json	64.00	98.10	94.47	71.11	94.47	16	206	9	4
+epoch_40_pred.json	88.00	97.14	96.17	83.02	96.17	22	204	3	6
+epoch_60_pred.json	88.00	97.14	96.17	83.02	96.17	22	204	3	6
+epoch_80_pred.json	88.00	95.71	94.89	78.57	94.89	22	201	3	9
+
+./work_dirs/_220204_bin/220204_normal_inflammed_timesformer_divST_8x32x1_220208T0724
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	67.57	94.44	90.21	68.49	90.21	25	187	12	11
+epoch_20_pred.json	16.22	98.48	85.53	26.09	85.53	6	195	31	3
+epoch_40_pred.json	27.03	97.98	86.81	39.22	86.81	10	194	27	4
+epoch_60_pred.json	54.05	96.97	90.21	63.49	90.21	20	192	17	6
+epoch_80_pred.json	59.46	96.97	91.06	67.69	91.06	22	192	15	6
+
+./work_dirs/_220204_bin/220204_normal_inflammed_timesformer_divST_8x32x1_220208T1513
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	89.19	98.99	97.45	91.67	97.45	33	196	4	2
+epoch_20_pred.json	64.86	98.99	93.62	76.19	93.62	24	196	13	2
+epoch_40_pred.json	78.38	94.95	92.34	76.32	92.34	29	188	8	10
+epoch_60_pred.json	89.19	98.99	97.45	91.67	97.45	33	196	4	2
+epoch_80_pred.json	83.78	99.49	97.02	89.86	97.02	31	197	6	1
+
+./work_dirs/_220204_bin/220204_normal_inflammed_timesformer_jointST_8x32x1_220208T1243
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	72.97	96.97	93.19	77.14	93.19	27	192	10	6
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	35.14	98.99	88.94	50.00	88.94	13	196	24	2
+epoch_60_pred.json	78.38	95.45	92.77	77.33	92.77	29	189	8	9
+epoch_80_pred.json	72.97	95.45	91.91	73.97	91.91	27	189	10	9
+
+./work_dirs/_220204_bin/220204_normal_inflammed_timesformer_jointST_8x32x1_220208T2025
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	67.57	98.48	93.62	76.92	93.62	25	195	12	3
+epoch_20_pred.json	0.00	100.00	84.26	0.00	84.26	0	198	37	0
+epoch_40_pred.json	32.43	98.99	88.51	47.06	88.51	12	196	25	2
+epoch_60_pred.json	62.16	98.48	92.77	73.02	92.77	23	195	14	3
+epoch_80_pred.json	67.57	97.47	92.77	74.63	92.77	25	193	12	5
+
+./work_dirs/_220204_bin/220204_normal_inflammed_timesformer_spaceOnly_8x32x1_220208T1908
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	86.49	97.98	96.17	87.67	96.17	32	194	5	4
+epoch_20_pred.json	83.78	98.48	96.17	87.32	96.17	31	195	6	3
+epoch_40_pred.json	83.78	96.46	94.47	82.67	94.47	31	191	6	7
+epoch_60_pred.json	83.78	97.98	95.74	86.11	95.74	31	194	6	4
+epoch_80_pred.json	86.49	96.97	95.32	85.33	95.32	32	192	5	6
+
+./work_dirs/_220204_bin/220204_normal_inflammed_timesformer_spaceOnly_8x32x1_220209T0307
+total_data	235
+each_label	198	37	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	75.68	97.47	94.04	80.00	94.04	28	193	9	5
+epoch_20_pred.json	51.35	99.49	91.91	66.67	91.91	19	197	18	1
+epoch_40_pred.json	72.97	97.98	94.04	79.41	94.04	27	194	10	4
+epoch_60_pred.json	75.68	97.47	94.04	80.00	94.04	28	193	9	5
+epoch_80_pred.json	75.68	97.47	94.04	80.00	94.04	28	193	9	5
+
+
+
+
+
+./work_dirs/_220204_bin/220204_normal_vascular_timesformer_divST_8x32x1_220207T0933
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	63.64	99.11	97.45	70.00	97.45	7	222	4	2
+epoch_20_pred.json	63.64	99.55	97.87	73.68	97.87	7	223	4	1
+epoch_40_pred.json	63.64	99.11	97.45	70.00	97.45	7	222	4	2
+epoch_60_pred.json	63.64	98.66	97.02	66.67	97.02	7	221	4	3
+epoch_80_pred.json	63.64	99.11	97.45	70.00	97.45	7	222	4	2
+
+./work_dirs/_220204_bin/220204_normal_vascular_timesformer_divST_8x32x1_220208T0017
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	36.36	96.88	94.04	36.36	94.04	4	217	7	7
+epoch_20_pred.json	27.27	99.11	95.74	37.50	95.74	3	222	8	2
+epoch_40_pred.json	18.18	97.77	94.04	22.22	94.04	2	219	9	5
+epoch_60_pred.json	18.18	96.88	93.19	20.00	93.19	2	217	9	7
+epoch_80_pred.json	27.27	97.32	94.04	30.00	94.04	3	218	8	6
+
+
+./work_dirs/_220204_bin/220204_normal_vascular_timesformer_jointST_8x32x1_220207T1442
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	18.18	100.00	96.17	30.77	96.17	2	224	9	0
+epoch_20_pred.json	0.00	100.00	95.32	0.00	95.32	0	224	11	0
+epoch_40_pred.json	18.18	98.21	94.47	23.53	94.47	2	220	9	4
+epoch_60_pred.json	18.18	100.00	96.17	30.77	96.17	2	224	9	0
+epoch_80_pred.json	18.18	99.55	95.74	28.57	95.74	2	223	9	1
+
+./work_dirs/_220204_bin/220204_normal_vascular_timesformer_jointST_8x32x1_220208T0530
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	72.73	100.00	98.72	84.21	98.72	8	224	3	0
+epoch_20_pred.json	63.64	99.55	97.87	73.68	97.87	7	223	4	1
+epoch_40_pred.json	72.73	100.00	98.72	84.21	98.72	8	224	3	0
+epoch_60_pred.json	72.73	100.00	98.72	84.21	98.72	8	224	3	0
+epoch_80_pred.json	72.73	99.55	98.30	80.00	98.30	8	223	3	1
+
+./work_dirs/_220204_bin/220204_normal_vascular_timesformer_spaceOnly_8x32x1_220208T0355
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	63.64	99.11	97.45	70.00	97.45	7	222	4	2
+epoch_20_pred.json	63.64	99.11	97.45	70.00	97.45	7	222	4	2
+epoch_40_pred.json	63.64	99.11	97.45	70.00	97.45	7	222	4	2
+epoch_60_pred.json	63.64	99.55	97.87	73.68	97.87	7	223	4	1
+epoch_80_pred.json	63.64	99.11	97.45	70.00	97.45	7	222	4	2
+
+./work_dirs/_220204_bin/220204_normal_vascular_timesformer_spaceOnly_8x32x1_220208T1146
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	63.64	99.11	97.45	70.00	97.45	7	222	4	2
+epoch_20_pred.json	63.64	99.55	97.87	73.68	97.87	7	223	4	1
+epoch_40_pred.json	63.64	99.55	97.87	73.68	97.87	7	223	4	1
+epoch_60_pred.json	63.64	99.55	97.87	73.68	97.87	7	223	4	1
+epoch_80_pred.json	63.64	99.11	97.45	70.00	97.45	7	222	4	2
+
+./work_dirs/_220204_bin/220204_vascular_timesformer_jointST_10x32x1_220210T1040
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	9.09	99.55	95.32	15.38	95.32	1	223	10	1
+epoch_20_pred.json	0.00	100.00	95.32	0.00	95.32	0	224	11	0
+epoch_40_pred.json	0.00	100.00	95.32	0.00	95.32	0	224	11	0
+epoch_60_pred.json	27.27	98.66	95.32	35.29	95.32	3	221	8	3
+epoch_80_pred.json	27.27	96.88	93.62	28.57	93.62	3	217	8	7
+
+./work_dirs/_220204_bin/220204_vascular_timesformer_jointST_12x32x1_220210T1955
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	54.55	98.66	96.60	60.00	96.60	6	221	5	3
+epoch_20_pred.json	0.00	100.00	95.32	0.00	95.32	0	224	11	0
+epoch_40_pred.json	18.18	100.00	96.17	30.77	96.17	2	224	9	0
+epoch_60_pred.json	27.27	98.66	95.32	35.29	95.32	3	221	8	3
+epoch_80_pred.json	45.45	98.21	95.74	50.00	95.74	5	220	6	4
+
+./work_dirs/_220204_bin/220204_vascular_timesformer_jointST_2x32x1_220211T0730
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	72.73	96.88	95.74	61.54	95.74	8	217	3	7
+epoch_20_pred.json	18.18	100.00	96.17	30.77	96.17	2	224	9	0
+epoch_40_pred.json	72.73	97.32	96.17	64.00	96.17	8	218	3	6
+epoch_60_pred.json	72.73	98.66	97.45	72.73	97.45	8	221	3	3
+epoch_80_pred.json	72.73	99.11	97.87	76.19	97.87	8	222	3	2
+
+./work_dirs/_220204_bin/220204_vascular_timesformer_jointST_4x32x1_220211T1018
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	45.45	95.09	92.77	37.04	92.77	5	213	6	11
+epoch_20_pred.json	0.00	100.00	95.32	0.00	95.32	0	224	11	0
+epoch_40_pred.json	18.18	100.00	96.17	30.77	96.17	2	224	9	0
+epoch_60_pred.json	27.27	99.55	96.17	40.00	96.17	3	223	8	1
+epoch_80_pred.json	36.36	97.77	94.89	40.00	94.89	4	219	7	5
+
+./work_dirs/_220204_bin/220204_vascular_timesformer_jointST_6x32x1_220211T1407
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	72.73	96.88	95.74	61.54	95.74	8	217	3	7
+epoch_20_pred.json	45.45	100.00	97.45	62.50	97.45	5	224	6	0
+epoch_40_pred.json	72.73	97.32	96.17	64.00	96.17	8	218	3	6
+epoch_60_pred.json	72.73	96.88	95.74	61.54	95.74	8	217	3	7
+epoch_80_pred.json	72.73	97.32	96.17	64.00	96.17	8	218	3	6
+
+./work_dirs/_220204_bin/220204_vascular_timesformer_jointST_8x32x1_220211T1917
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	45.45	96.43	94.04	41.67	94.04	5	216	6	8
+epoch_20_pred.json	0.00	100.00	95.32	0.00	95.32	0	224	11	0
+epoch_40_pred.json	18.18	100.00	96.17	30.77	96.17	2	224	9	0
+epoch_60_pred.json	36.36	98.66	95.74	44.44	95.74	4	221	7	3
+epoch_80_pred.json	36.36	95.09	92.34	30.77	92.34	4	213	7	11
+
+./work_dirs/_220204_bin/220204_vascular_timesformer_spaceOnly_10x32x1_220212T0240
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	72.73	98.66	97.45	72.73	97.45	8	221	3	3
+epoch_20_pred.json	72.73	98.21	97.02	69.57	97.02	8	220	3	4
+epoch_40_pred.json	63.64	100.00	98.30	77.78	98.30	7	224	4	0
+epoch_60_pred.json	63.64	99.55	97.87	73.68	97.87	7	223	4	1
+epoch_80_pred.json	72.73	98.66	97.45	72.73	97.45	8	221	3	3
+
+./work_dirs/_220204_bin/220204_vascular_timesformer_spaceOnly_12x32x1_220212T0656
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	72.73	97.77	96.60	66.67	96.60	8	219	3	5
+epoch_20_pred.json	72.73	100.00	98.72	84.21	98.72	8	224	3	0
+epoch_40_pred.json	72.73	98.66	97.45	72.73	97.45	8	221	3	3
+epoch_60_pred.json	72.73	97.77	96.60	66.67	96.60	8	219	3	5
+epoch_80_pred.json	72.73	97.77	96.60	66.67	96.60	8	219	3	5
+
+./work_dirs/_220204_bin/220204_vascular_timesformer_spaceOnly_14x32x1_220212T1158
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	72.73	98.66	97.45	72.73	97.45	8	221	3	3
+epoch_20_pred.json	72.73	99.11	97.87	76.19	97.87	8	222	3	2
+epoch_40_pred.json	72.73	99.55	98.30	80.00	98.30	8	223	3	1
+epoch_60_pred.json	72.73	99.11	97.87	76.19	97.87	8	222	3	2
+epoch_80_pred.json	72.73	98.66	97.45	72.73	97.45	8	221	3	3
+
+./work_dirs/_220204_bin/220204_vascular_timesformer_spaceOnly_2x32x1_220212T1745
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	72.73	99.11	97.87	76.19	97.87	8	222	3	2
+epoch_20_pred.json	72.73	96.88	95.74	61.54	95.74	8	217	3	7
+epoch_40_pred.json	72.73	97.77	96.60	66.67	96.60	8	219	3	5
+epoch_60_pred.json	72.73	99.11	97.87	76.19	97.87	8	222	3	2
+epoch_80_pred.json	72.73	99.11	97.87	76.19	97.87	8	222	3	2
+
+./work_dirs/_220204_bin/220204_vascular_timesformer_spaceOnly_4x32x1_220212T1903
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	63.64	98.66	97.02	66.67	97.02	7	221	4	3
+epoch_20_pred.json	45.45	100.00	97.45	62.50	97.45	5	224	6	0
+epoch_40_pred.json	63.64	100.00	98.30	77.78	98.30	7	224	4	0
+epoch_60_pred.json	63.64	98.66	97.02	66.67	97.02	7	221	4	3
+epoch_80_pred.json	63.64	98.66	97.02	66.67	97.02	7	221	4	3
+
+./work_dirs/_220204_bin/220204_vascular_timesformer_spaceOnly_6x32x1_220212T2105
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	63.64	98.66	97.02	66.67	97.02	7	221	4	3
+epoch_20_pred.json	54.55	98.66	96.60	60.00	96.60	6	221	5	3
+epoch_40_pred.json	45.45	99.11	96.60	55.56	96.60	5	222	6	2
+epoch_60_pred.json	63.64	99.55	97.87	73.68	97.87	7	223	4	1
+epoch_80_pred.json	63.64	99.11	97.45	70.00	97.45	7	222	4	2
+
+./work_dirs/_220204_bin/220204_vascular_timesformer_spaceOnly_8x32x1_220212T2348
+total_data	235
+each_label	224	11	0	0	0	
+	sens	spec	accu	f1	cls	TP	TN	FN	FP
+epoch_100_pred.json	63.64	98.21	96.60	63.64	96.60	7	220	4	4
+epoch_20_pred.json	0.00	100.00	95.32	0.00	95.32	0	224	11	0
+epoch_40_pred.json	63.64	99.55	97.87	73.68	97.87	7	223	4	1
+epoch_60_pred.json	63.64	99.11	97.45	70.00	97.45	7	222	4	2
+epoch_80_pred.json	63.64	98.21	96.60	63.64	96.60	7	220	4	4
+

@@ -1,0 +1,102 @@
+./metric_log/220204_220209_offset_220316T0938.txt
+./work_dirs/_220204/220204_normal_timesformer_divST_2x32x1_15e_kinetics400_rgb_220206T1417
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_2_epoch_100_pred.json	93.22	46.67	50.50	23.64	49.70	37737	210966	2743	241078	492524
+220209_offset_2_test_0_epoch_100_pred.json	57.84	60.05	59.89	17.18	58.61	450	6028	328	4010	10816
+220209_offset_2_test_1_epoch_100_pred.json	86.53	39.42	67.65	76.22	54.63	1792	546	279	839	3456
+220209_offset_2_test_1_half_epoch_100_pred.json	86.37	38.35	66.80	75.50	54.46	900	275	142	442	1759
+
+./work_dirs/_220204/220204_normal_timesformer_divST_4x32x1_15e_kinetics400_rgb_220206T1619
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_4_epoch_100_pred.json	97.39	32.61	39.59	25.78	37.84	42432	117659	1138	243171	404400
+220209_offset_4_test_0_epoch_100_pred.json	96.85	38.84	45.53	29.08	44.58	860	2646	28	4166	7700
+220209_offset_4_test_1_epoch_100_pred.json	95.56	27.26	55.66	64.18	48.37	474	190	22	507	1193
+220209_offset_4_test_1_half_epoch_100_pred.json	95.08	29.79	57.59	65.63	50.44	232	98	12	231	573
+
+./work_dirs/_220204/220204_normal_timesformer_divST_6x32x1_15e_kinetics400_rgb_220206T1928
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_6_epoch_100_pred.json	96.42	70.61	73.38	43.78	72.73	27910	169752	1035	70653	269350
+220209_offset_6_test_0_epoch_100_pred.json	86.98	69.69	76.67	75.08	68.82	2492	2945	373	1281	7091
+220209_offset_6_test_1_epoch_100_pred.json	83.76	74.40	79.27	80.78	70.44	454	372	88	128	1042
+220209_offset_6_test_1_half_epoch_100_pred.json	83.89	74.04	79.55	82.10	70.73	250	174	48	61	533
+
+./work_dirs/_220204/220204_normal_timesformer_divST_8x32x1_15e_kinetics400_rgb_220205T1706
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_8_epoch_100_pred.json	95.38	76.23	77.79	41.20	77.38	9564	86060	463	26840	122927
+220209_offset_8_test_1_epoch_100_pred.json	100.00	56.07	76.62	80.00	76.62	94	60	0	47	201
+220209_offset_8_test_1_half_epoch_100_pred.json	100.00	49.09	70.53	74.07	70.53	40	27	0	28	95
+
+./work_dirs/_220204/220204_normal_timesformer_divST_8x32x1_15e_kinetics400_rgb_220206T2339
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_8_epoch_100_pred.json	94.46	60.00	63.70	35.82	62.88	20448	108101	1199	72067	201815
+220209_offset_8_test_1_epoch_100_pred.json	98.94	44.86	70.15	75.61	69.65	93	48	1	59	201
+220209_offset_8_test_1_half_epoch_100_pred.json	100.00	40.00	65.26	70.80	65.26	40	22	0	33	95
+
+./work_dirs/_220204/220204_normal_timesformer_jointST_2x32x1_15e_kinetics400_rgb_220207T0447
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_2_epoch_100_pred.json	94.00	80.75	82.18	53.27	82.04	82253	583172	5249	139034	809708
+220209_offset_2_test_0_epoch_100_pred.json	79.56	81.20	81.08	37.70	80.80	619	8151	159	1887	10816
+220209_offset_2_test_1_epoch_100_pred.json	83.53	75.96	80.50	83.70	75.81	1730	1052	341	333	3456
+220209_offset_2_test_1_half_epoch_100_pred.json	84.07	76.85	81.13	84.07	76.24	876	551	166	166	1759
+
+./work_dirs/_220204/220204_normal_timesformer_jointST_4x32x1_15e_kinetics400_rgb_220207T0633
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_4_epoch_100_pred.json	96.97	69.15	72.15	42.86	71.89	42250	249512	1320	111318	404400
+220209_offset_4_test_0_epoch_100_pred.json	94.37	77.52	79.47	51.46	78.91	838	5281	50	1531	7700
+220209_offset_4_test_1_epoch_100_pred.json	94.56	60.98	74.94	75.83	73.85	469	425	27	272	1193
+220209_offset_4_test_1_half_epoch_100_pred.json	95.08	60.79	75.39	76.69	73.65	232	200	12	129	573
+
+./work_dirs/_220204/220204_normal_timesformer_jointST_6x32x1_15e_kinetics400_rgb_220207T0932
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_6_epoch_100_pred.json	93.97	75.27	77.28	47.06	76.94	27200	180951	1745	59454	269350
+220209_offset_6_test_0_epoch_100_pred.json	77.59	67.18	71.39	68.66	65.58	2223	2839	642	1387	7091
+220209_offset_6_test_1_epoch_100_pred.json	74.91	74.40	74.66	75.46	66.31	406	372	136	128	1042
+220209_offset_6_test_1_half_epoch_100_pred.json	73.83	75.32	74.48	76.39	65.10	220	177	78	58	533
+
+./work_dirs/_220204/220204_normal_timesformer_jointST_8x32x1_15e_kinetics400_rgb_220205T2217
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_8_test_1_epoch_100_pred.json	69.15	80.37	75.12	72.22	75.12	65	86	29	21	201
+220209_offset_8_test_1_half_epoch_100_pred.json	67.50	83.64	76.84	71.05	76.84	27	46	13	9	95
+
+./work_dirs/_220204/220204_normal_timesformer_jointST_8x32x1_15e_kinetics400_rgb_220207T1357
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_8_epoch_100_pred.json	89.81	83.32	84.01	54.65	83.74	19442	150112	2205	30056	201815
+220209_offset_8_test_1_epoch_100_pred.json	98.94	63.55	80.10	82.30	80.10	93	68	1	39	201
+220209_offset_8_test_1_half_epoch_100_pred.json	100.00	60.00	76.84	78.43	76.84	40	33	0	22	95
+
+./work_dirs/_220204/220204_normal_timesformer_spaceOnly_14x32x1_220208T0939
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_4_epoch_100_pred.json	93.55	87.95	88.55	63.78	88.39	40761	317351	2809	43479	404400
+
+./work_dirs/_220204/220204_normal_timesformer_spaceOnly_2x32x1_220208T1528
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_2_test_0_epoch_100_pred.json	88.82	81.47	82.00	41.51	81.87	691	8178	87	1860	10816
+220209_offset_2_test_1_epoch_100_pred.json	89.04	81.08	85.85	88.29	80.70	1844	1123	227	262	3456
+220209_offset_2_test_1_half_epoch_100_pred.json	89.16	81.31	85.96	88.27	80.67	929	583	113	134	1759
+
+./work_dirs/_220204/220204_normal_timesformer_spaceOnly_4x32x1_220208T1738
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_4_epoch_100_pred.json	95.16	87.75	88.36	57.28	88.23	19208	198263	976	27676	246123
+220209_offset_4_test_0_epoch_100_pred.json	94.26	92.31	92.53	74.43	92.06	837	6288	51	524	7700
+220209_offset_4_test_1_epoch_100_pred.json	91.53	81.21	85.50	84.00	84.83	454	566	42	131	1193
+220209_offset_4_test_1_half_epoch_100_pred.json	89.75	80.55	84.47	83.11	83.94	219	265	25	64	573
+
+./work_dirs/_220204/220204_normal_timesformer_spaceOnly_6x32x1_220208T2107
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_6_epoch_100_pred.json	92.59	86.85	87.32	54.43	86.89	12415	130786	993	19795	163989
+220209_offset_6_test_0_epoch_100_pred.json	84.05	82.37	83.05	80.03	77.04	2408	3481	457	745	7091
+220209_offset_6_test_1_epoch_100_pred.json	78.78	86.20	82.34	82.27	74.38	427	431	115	69	1042
+220209_offset_6_test_1_half_epoch_100_pred.json	76.51	84.68	80.11	81.14	71.48	228	199	70	36	533
+
+./work_dirs/_220204/220204_normal_timesformer_spaceOnly_8x32x1_220206T0432
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_8_epoch_100_pred.json	96.17	88.18	89.04	65.30	88.96	20819	158869	828	21299	201815
+220209_offset_8_test_1_epoch_100_pred.json	100.00	75.70	87.06	87.85	87.06	94	81	0	26	201
+220209_offset_8_test_1_half_epoch_100_pred.json	100.00	70.91	83.16	83.33	83.16	40	39	0	16	95
+
+./work_dirs/_220204/220204_normal_timesformer_spaceOnly_8x32x1_220208T2356
+	sens	spec	accu	f1	cls	TP	TN	FN	FP	All
+220209_offset_8_epoch_100_pred.json	97.07	87.17	88.23	63.89	88.13	21012	157050	635	23118	201815
+220209_offset_8_test_1_epoch_100_pred.json	98.94	70.09	83.58	84.93	83.58	93	75	1	32	201
+220209_offset_8_test_1_half_epoch_100_pred.json	100.00	65.45	80.00	80.81	80.00	40	36	0	19	95
+
