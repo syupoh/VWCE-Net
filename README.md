@@ -12,7 +12,9 @@ pip install -r requirements.txt
 ## Evaluation
 * 
 ```
-code
+ CUDA_VISIBLE_DEVICES=0 python tools/inference.py \
+            --evaluate_pth=${pthfile} \
+            --dataname=${pthfile} --annfile=${annfile}
 ```
 
 ## Citations
