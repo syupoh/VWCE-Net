@@ -4,8 +4,7 @@
 * This is a PyTorch implementation for paper "Video analysis of small bowel capsule endoscopy using a Transformer network". 
 
 ## Environment
-* We build this repo from the OpenSource project [MMAction2](https://github.com/open-mmlab/mmaction2).
-* The following steps are based on [MMAction2](https://github.com/open-mmlab/mmaction2).  
+* We build this repo from the OpenSource project [MMAction2](https://github.com/open-mmlab/mmaction2). The following steps are based on [MMAction2](https://github.com/open-mmlab/mmaction2) install step.  
 
 1. Create a conda virtual environment and install PyTorch and TorchVision: 
 ```
@@ -21,15 +20,20 @@ mim install mmaction2 -f https://github.com/open-mmlab/mmaction2.git
 pip install -r requirements.txt
 ```
 
+## Data preparation
+```
+$DATA_ROOT 
+├── $DATA_NAME1
+│    └── annotations
+│       └── $ANNFILE.txt
+├── ...
+```
 
 ## Evaluation
-* 
+Evaluate VWCE-Net performance using gpu 0 
 ```
- CUDA_VISIBLE_DEVICES=0 python tools/inference.py --evaluate_pth=${pthfile} --dataname=${dataname} --annfile=${annfile}
+ CUDA_VISIBLE_DEVICES=0 python tools/inference.py --evaluate_pth=$PTHFILE.pth --dataname=$DATA_NAME1 --annfile=$ANNFILE
 ```
 
-## Citations
-* 
-```
-@inproceedings
-```
+
+
