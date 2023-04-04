@@ -9,7 +9,10 @@
 * Anaconda 3.6+
 
 
-## Dependencies
+## Environment
+```
+pip install -r requirements.txt
+```
 
 ## Test
 * 
