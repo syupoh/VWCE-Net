@@ -1,12 +1,7 @@
 # VWCE-Net
 
 ## Readme
-* the main backbone is based on 
-
-## Dependencies
-* Python 3+
-* Pytorch 0.3.+
-* Anaconda 3.6+
+* This is a PyTorch implementation for paper "Video analysis of small bowel capsule endoscopy using a Transformer network". We build this model based on the OpenSource Project [MMAction2](https://github.com/open-mmlab/mmaction2).
 
 
 ## Environment
@@ -14,8 +9,14 @@
 pip install -r requirements.txt
 ```
 
-## Test
+## Evaluation
 * 
 ```
 code
+```
+
+## Citations
+* 
+```
+@inproceedings
 ```
