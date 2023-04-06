@@ -32,7 +32,7 @@ $DATA_ROOT
 ## Evaluation
 Evaluate VWCE-Net performance using gpu 0 
 ```
- CUDA_VISIBLE_DEVICES=0 python tools/inference.py --evaluate_pth=$PTHFILE.pth --dataname=$DATA_NAME1 --annfile=$ANNFILE
+ CUDA_VISIBLE_DEVICES=0 python tools/inference.py --evaluate_pth=$PTHFILE --dataname=$DATA_NAME1 --annfile=$ANNFILE
 ```
 
 
